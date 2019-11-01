@@ -9,5 +9,5 @@ Please access Project Report in the repository.
 ## Tools
 Python: Pandas, Scikit-learn, Matplotlib, Seaborn.
 
-## Data
+## Dataset
 Lending Club Statistics, 2018. Available: https://www.lendingclub.com/info/download-data.action [Accessed: 4 Aug, 2018].
