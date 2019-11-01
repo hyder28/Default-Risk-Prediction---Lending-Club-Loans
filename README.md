@@ -1,4 +1,4 @@
-# Default-Risk-Prediction---Lending-Club-Loans
+# Default Risk Prediction - Lending Club Loans
 ## Overview
 Default Risk due to asymmetric information has always been a top concern among Peer-to-Peer (P2P) investors. In this project, we apply predictive modelling techniques to predict default risk of borrowers on Lending Club platform. The model could be potentially integrated into portfolio optimization algorithms to maximize return given different risk preferences.
 - Developed predictive models with 90.6% Recall rate to predict default risk using Logistic Regression, SVM and Random Forest Classification Trees with Grid-search hyperparameter tuning and 10-Fold cross validation. 
